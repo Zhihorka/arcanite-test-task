@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b6dbe73cf2b50ba2416bb4a23956e46f",
+    "revision": "d399dd8419a2153fc679dc78e0f26852",
     "url": "/arcanite-test-task/index.html"
   },
   {
