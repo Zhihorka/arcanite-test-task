@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/arcanite-test-task/precache-manifest.bfcd7dcb27cfa09515efcfe9d1e27d26.js"
+  "/arcanite-test-task/precache-manifest.0095cd5b2350142476e8cf4819852a20.js"
 );
 
 self.addEventListener('message', (event) => {
